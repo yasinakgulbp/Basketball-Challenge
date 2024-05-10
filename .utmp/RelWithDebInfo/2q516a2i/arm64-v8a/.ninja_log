@@ -1,0 +1,21 @@
+# ninja log v5
+57	313	7335580399009441	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f279dafc040a67d0
+8	1730	7335580413027917	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	808b4e14ab81d126
+314	725	7335580402293397	C:/Users/yasin/Documents/GitHub/BasketballPrototype3D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2q516a2i/obj/arm64-v8a/libswappywrapper.so	a72ed43b52e4862
+35	1303	7335580408846708	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4eefe43150aa52b2
+29	1466	7335580410512675	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	157d8a0ac5c05d0a
+41	1258	7335580408399687	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5ec6e971a733cc0a
+15	1357	7335580409396479	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4b96492476c275a8
+48	1397	7335580409814431	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6e0f1521d0b9d866
+23	1634	7335580412099228	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	deefd46264bea0e2
+1730	1919	7335580414481064	C:/Users/yasin/Documents/GitHub/BasketballPrototype3D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2q516a2i/obj/arm64-v8a/libgame.so	7fec57181f9c93c5
+35	293	7336163981214208	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f279dafc040a67d0
+294	641	7336163983996020	C:/Users/yasin/Documents/GitHub/BasketballPrototype3D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2q516a2i/obj/arm64-v8a/libswappywrapper.so	a72ed43b52e4862
+12	1338	7336163992171888	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4b96492476c275a8
+30	1338	7336163992171888	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5ec6e971a733cc0a
+25	1404	7336163992892334	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4eefe43150aa52b2
+19	1478	7336163993630574	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6e0f1521d0b9d866
+16	1554	7336163994378694	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	157d8a0ac5c05d0a
+8	1730	7336163996146444	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	deefd46264bea0e2
+3	1819	7336163997040672	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	808b4e14ab81d126
+1820	1998	7336163998212151	C:/Users/yasin/Documents/GitHub/BasketballPrototype3D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2q516a2i/obj/arm64-v8a/libgame.so	7fec57181f9c93c5
